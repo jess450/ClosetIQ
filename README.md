@@ -28,7 +28,7 @@ Inspired by Cher's virtual closet in *Clueless*, ClosetIQ takes a modern twist a
 
 Organize clothing locally by category and browse your personal wardrobe.
 
-![ClosetIQ digital wardrobe](screenshots/wardrobe.jpg)
+![ClosetIQ digital wardrobe](screenshots/closetiq%20home.jpg)
 
 ### Add Clothing
 
@@ -40,13 +40,13 @@ Add clothing to your digital wardrobe by category using your own photos.
 
 Create, save, view, edit, and manage outfits.
 
-![ClosetIQ saved outfit](screenshots/saved-outfit.jpg)
+![ClosetIQ saved outfit](screenshots/testoutfit.jpg)
 
 ### Outfit Lab
 
 Experiment with clothing combinations using items from your wardrobe.
 
-![ClosetIQ Outfit Lab](screenshots/outfit-lab.jpg)
+![ClosetIQ Outfit Lab](screenshots/testoutfit-tags.jpg)
 
 ## Project Status
 
