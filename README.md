@@ -38,15 +38,17 @@ Add clothing to your digital wardrobe by category using your own photos.
 
 ### Saved Outfits
 
-Create, save, view, edit, and manage outfits.
+Create, save, view, edit, and manage outfits with clothing details and tags.
 
 ![ClosetIQ saved outfit](screenshots/testoutfit.jpg)
 
+![ClosetIQ saved outfit details and tags](screenshots/testoutfit-tags.jpg)
+
 ### Outfit Lab
 
-Experiment with clothing combinations using items from your wardrobe.
+Experiment with tops, bottoms, and shoes from your wardrobe to build outfit combinations.
 
-![ClosetIQ Outfit Lab](screenshots/testoutfit-tags.jpg)
+![ClosetIQ Outfit Lab](screenshots/outfit-lab.jpg)
 
 ## Project Status
 
